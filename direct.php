@@ -1,0 +1,1 @@
+<?php header("location: index.php?top=home.php"); break; ?>
